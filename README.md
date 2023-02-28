@@ -1,1 +1,1 @@
-pruba modulo 2 .. como crear un repositorio y clonarlo desde git hub a la computadora 
+finalizando la pruba del modulo dos con los cambios gaurdados en gib  hub
